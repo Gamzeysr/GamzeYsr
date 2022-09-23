@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Fullstack Developer**
 
-- 📫 How to reach me **gamzeyasar817@gmail.com** / **gamzeyasar35@icloud.com**
+- 📫 How to reach me **gamzeyasar35@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
