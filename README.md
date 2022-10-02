@@ -65,8 +65,37 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
+### <h2 align="center">&#127894; My Projects</h2>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
 
-<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
+<table>
+
+
+<tr >
+    <caption>React-Redux Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="30%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="60%">Libraries and Technologies I use</th>
+  
+</tr>
+ <tr>
+    <td align=center >1.</td>
+    <td>TO-DO List</td>
+    <td>https://gamzeysr.github.io/TODOProject/</td>
+    <td>Dom-DomEvent-Capturing</td>
+   
+</tr>
+
+ 
+</table>
+
+
+
+
+<!--  <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
 	<a href="https://github.com/Gamzeysr"><img alt="github" width="10%" style="padding:5px" src="https://github.com/Gamzeysr"/></a>
@@ -81,5 +110,5 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GamzeYsr}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
 
