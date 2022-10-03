@@ -88,6 +88,43 @@ Here are some ideas to get you started:
     <td>Dom-DomEvent-Capturing</td>
    
 </tr>
+<tr>
+<td align=center >2.</td>
+<td>Digital-Clock</td>
+ <td>https://gamzeysr.github.io/Digital-clock/</td>
+<td>Function</td>
+</tr>
+
+<tr>
+    <td align=center >3.</td>
+    <td>Weather</td>
+    <td>https://gamzeysr.github.io/WEATHER-PROJECT/</td>
+    <td>API-Try/Catch</td>
+ 
+</tr>
+
+<tr>
+<td align=center>4.</td>
+<td>Calculator</td>
+ <td>https://gamzeysr.github.io/Calculator-js/</td>
+<td>SwitchCase</td>
+</tr>
+   
+<tr>
+<td align=center>5.</td>
+<td>MoleGame</td>
+ <td>https://gamzeysr.github.io/MoleGame/</td>
+<td>Function-Math.floor-Math.random</td>
+</tr>
+
+<tr>
+<td align=center>6.</td>
+<td>Checkout</td>
+ <td>https://gamzeysr.github.io/JS01-project-shopping/</td>
+<td>if/else</td>
+</tr>
+
+
 
  
 </table>
