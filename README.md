@@ -86,6 +86,7 @@
 <table>
 
  <tr>
+ <caption>HTML-CSS-JavaScript Projects<caption>
     <td align=center >1.</td>
     <td>TO-DO List</td>
     <td>https://gamzeysr.github.io/TODOProject/</td>
