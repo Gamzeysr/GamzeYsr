@@ -144,24 +144,7 @@
 </tr>
 
 </table>
- <table>
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
-<tr >
-    <caption>HMTL-CSS PROJECTS<caption>
-    <th width="5%">S.Nu </th>
-    <th align="left" width="20%">Project Name</th>
-    <th align="left" width="50%">Project Link</th>
-  
-</tr>
 
-<tr>
-    <td align=center >1.</td>
-    <td>Voltran</td>
-    <td>https://brs14shn.github.io/Voltran/</td>
-   
-</tr>
-</table>
 <p align="center"><b> Thank You for visiting my profile 🙏</b></p>
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
