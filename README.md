@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 <td align=center>8.</td>
 <td>Checkout Page</td>
  <td>https://gamzeysr.github.io/quiz-app/</td>
-<td>addEventListener-Function</td>
+<td>Functionadd-EventListener</td>
 </tr>
 
 
