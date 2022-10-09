@@ -131,12 +131,12 @@ Here are some ideas to get you started:
 <td>Function</td>
 </tr>
 
-<!--<tr>
+<tr>
 <td align=center>8.</td>
 <td>Checkout Page</td>
- <td>https://gamzeysr.github.io/JS01-project-shopping/</td>
-<td>parseFloat-forEach</td>
-</tr>-->
+ <td>https://gamzeysr.github.io/quiz-app/</td>
+<td>addEventListener-Function</td>
+</tr>
 
 
  
