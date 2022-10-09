@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Gamzeysr/GamzeYsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Frontend Developer!;I used it in my projects ;HTML|CSS|JS|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamze-ya%C5%9Far-/) 
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
@@ -66,21 +57,34 @@ Here are some ideas to get you started:
 </div>
 
 ### <h2 align="center">&#127894; My Projects</h2>
+
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+
+ <table>
+<tr >
+    <caption>React-Redux Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+  
+</tr>
+>!--<tr>
+    <td align=center >1.</td>
+    <td>React-Tour_Places</td>
+    <td>https://react-tour-places-three.vercel.app/</td> 
+    <td>React, React DOM, Components, Props </td>
+</tr>-->
+</table>
+
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
 
 <table>
 
-
-<tr >
-    <caption>React-Redux Projects<caption>
-    <th width="5%">S.Nu </th>
-    <th align="left" width="30%">Project Name</th>
-    <th align="left" width="40%">Project Link</th>
-    <th align="left" width="60%">Libraries and Technologies I use</th>
-  
-</tr>
  <tr>
     <td align=center >1.</td>
     <td>TO-DO List</td>
