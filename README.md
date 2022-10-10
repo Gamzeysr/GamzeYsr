@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- <a href=""> -->
-  <img  src="https://github.com/AdamHopeful/resources/blob/main/grid-snake.svg"
+  <img  src="https://github.com/Gamzeysr/resources/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
