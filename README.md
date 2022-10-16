@@ -84,6 +84,13 @@
     <td>https://gmz-react-tour-places.netlify.app/</td> 
     <td>React-Props-HTML-CSS-JavaScript</td>
 </tr>
+<tr>
+    <td align=center>3.</td>
+    <td>React-Employee-List-Project</td>
+    <td>https://gmz-react-employee-list.netlify.app/</td> 
+    <td>React-Props-HTML-CSS-JavaScript</td>
+</tr>
+
 </table>
 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
