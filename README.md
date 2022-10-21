@@ -90,6 +90,14 @@
     <td>https://gmz-react-employee-list.netlify.app/</td> 
     <td>React-Props-HTML-CSS-JavaScript</td>
 </tr>
+<tr>
+    <td align=center>4.</td>
+    <td>React-Language-Card-Project</td>
+    <td>https://gmz-language-card.netlify.app/</td> 
+    <td>React-Props-HTML-CSS-JavaScript</td>
+</tr>
+
+    
 
 </table>
 
