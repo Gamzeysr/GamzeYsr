@@ -97,6 +97,20 @@
     <td>React-Props-HTML-CSS-JavaScript</td>
 </tr>
 
+<tr>
+    <td align=center>5.</td>
+    <td>React-Language-Card-Project</td>
+    <td>https://gmz-language-card.netlify.app/</td> 
+    <td>React-Props-HTML-CSS-JavaScript</td>
+</tr>
+
+<tr>
+    <td align=center>6.</td>
+    <td>React-Language-Card-Project</td>
+    <td>https://gmz-language-card.netlify.app/</td> 
+    <td>React-Props-HTML-CSS-JavaScript</td>
+</tr>
+
     
 
 </table>
