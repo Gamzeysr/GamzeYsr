@@ -110,6 +110,13 @@
     <td>https://user-app-gmz.netlify.app//</td> 
     <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
 </tr>
+	    
+<tr>
+    <td align=center>7.</td>
+    <td>React-Random-User-App-Project-2</td>
+    <td>https://random-user-app-v2-five.vercel.app/</td> 
+    <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
+</tr>
 
     
 
