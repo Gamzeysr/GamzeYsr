@@ -116,6 +116,12 @@
     <td>React-Random-User-App-Project-2</td>
     <td>https://random-user-app-v2-five.vercel.app/</td> 
     <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
+</tr> 
+<tr>
+<td align=center>8.</td>
+<td>React-Clarusway-Web-Design</td>
+ <td>https://react-gmz-clarusway-web-design.vercel.app/</td>
+<td>onClick-Nagivate-styledComponent-Routes</td>
 </tr>
 
     
@@ -185,6 +191,8 @@
  <td>https://gamzeysr.github.io/quiz-app/</td>
 <td>Function-addEventListener</td>
 </tr>
+	 
+
 
 </table>
 
