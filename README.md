@@ -115,15 +115,22 @@
     <td align=center>7.</td>
     <td>React-Random-User-App-Project-2</td>
     <td>https://random-user-app-v2-five.vercel.app/</td> 
-    <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
+    <td>React-Props-useEffect-HTML-CSS-JavaScript</td>
 </tr> 
 <tr>
 <td align=center>8.</td>
 <td>React-Clarusway-Web-Design</td>
  <td>https://react-gmz-clarusway-web-design.vercel.app/</td>
-<td>onClick-Nagivate-styledComponent-Routes</td>
+<td>React-onClick-Nagivate-styledComponent-Routes</td>
 </tr>
 
+	        
+<tr>
+<td align=center>9.</td>
+<td>React-Weather-App</td>
+ <td>https://react-weather-app-starter-gamze.vercel.app/</td>
+<td>React-useEffect-Props-HTML-CSS-JavaScript</td>
+</tr>
     
 
 </table>
@@ -191,6 +198,8 @@
  <td>https://gamzeysr.github.io/quiz-app/</td>
 <td>Function-addEventListener</td>
 </tr>
+	 
+
 	 
 
 
