@@ -46,15 +46,8 @@
   </a>
 </div> -->
 
-<!-- ![snake gif](https://github.com/yaserdemet/GamzeYsr/blob/output/github-contribution-grid-snake.gif)
- -->
 
 
-<div align="center">
-  <!-- <a href=""> -->
-  <img  src="https://github.com/Gamzeysr/resources/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
