@@ -94,7 +94,7 @@
     <td align=center>4.</td>
     <td>React-Language-Card-Project</td>
     <td>https://gmz-language-card.netlify.app/</td> 
-    <td>React-Props-HTML-CSS-JavaScript</td>
+    <td>React-Props-React DOM-ComponentsHTML-CSS-JavaScript</td>
 </tr>
 
 <tr>
