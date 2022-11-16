@@ -129,7 +129,7 @@
 <td align=center>10.</td>
 <td>React-Recipe-App</td>
  <td>https://recipe-app-solution-gmz-react.vercel.app/</td>
-<td>React-useEffect-Props-Async Await-API-HTML-CSS-JavaScript</td>
+<td>React-useEffect-Props-Async Await-API-JavaScript</td>
 </tr>
     
 
