@@ -129,7 +129,7 @@
 <td align=center>9.</td>
 <td>React-Weather-App</td>
  <td>https://react-weather-app-starter-gamze.vercel.app/</td>
-<td>React-useEffect-Props-HTML-CSS-JavaScript</td>
+<td>React-useEffect-Props-Axios-Api-Async Await-HTML-CSS-JavaScript</td>
 </tr>
 	    
 <tr>
