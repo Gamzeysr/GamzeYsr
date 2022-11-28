@@ -131,6 +131,13 @@
  <td>https://recipe-app-solution-gmz-react.vercel.app/</td>
 <td>React-useEffect-Props-Async Await-API-JavaScript</td>
 </tr>
+	    
+<tr>
+<td align=center>11.</td>
+<td>React-Movie-App</td>
+ <td>https://movie-app-react-gamze.vercel.app/</td>
+<td>React-Tailwind-Tostify-Firebase-Context-useEffect-Props-Async Await-API</td>
+</tr>
     
 
 </table>
