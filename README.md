@@ -68,14 +68,14 @@
     <td align=center >1.</td>
     <td>React-Project</td>
     <td>https://gamzeyasarr.netlify.app/</td> 
-    <td>React-HTML-CSS-JavaScript</td>
+    <td>React-React DOM-Props-Components</td>
 </tr>
 
 <tr>
     <td align=center>2.</td>
     <td>React-TourPlaces-Project</td>
     <td>https://gmz-react-tour-places.netlify.app/</td> 
-    <td>React-Props-HTML-CSS-JavaScript</td>
+    <td>React-React DOM-Props-Components</td>
 </tr>
 <tr>
     <td align=center>3.</td>
@@ -87,7 +87,7 @@
     <td align=center>4.</td>
     <td>React-Language-Card-Project</td>
     <td>https://gmz-language-card.netlify.app/</td> 
-    <td>React-Props-React DOM-ComponentsHTML-CSS-JavaScript</td>
+    <td>React-Props-React DOM-Components</td>
 </tr>
 
 <tr>
