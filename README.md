@@ -108,7 +108,7 @@
     <td align=center>7.</td>
     <td>React-Random-User-App-Project-2</td>
     <td>https://random-user-app-v2-five.vercel.app/</td> 
-    <td>React-Props-useEffect-HTML-CSS-JavaScript</td>
+    <td>React-Props-useEffect-Axios-Async Await-Rest API</td>
 </tr> 
 <tr>
 <td align=center>8.</td>
