@@ -205,6 +205,13 @@
  <td>https://gamzeysr.github.io/quiz-app/</td>
 <td>Function-addEventListener</td>
 </tr>
+	
+<tr>
+<td align=center>9.</td>
+<td>Guessing Game</td>
+ <td>https://gamzeysr.github.io/guessing-game/</td>
+<td>LocalStorage-if-else-querySelector</td>
+</tr>
 	 
 
 	 
