@@ -213,6 +213,13 @@
 <td>LocalStorage-if-else-querySelector</td>
 </tr>
 	 
+<tr>
+<td align=center>10.</td>
+<td>Flappy Bird</td>
+ <td>https://flappy-bird-game-gamze.vercel.app/</td>
+<td>Function-if-else-querySelector-getBoundingClientRect-SoundEffects</td>
+</tr>
+	 
 
 	 
 
