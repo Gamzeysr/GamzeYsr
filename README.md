@@ -201,7 +201,7 @@
 
 <tr>
 <td align=center>8.</td>
-<td>Checkout Page</td>
+<td>Quiz</td>
  <td>https://gamzeysr.github.io/quiz-app/</td>
 <td>Function-addEventListener</td>
 </tr>
