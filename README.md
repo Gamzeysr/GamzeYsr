@@ -220,6 +220,13 @@
 <td>Function-if-else-querySelector-getBoundingClientRect-SoundEffects</td>
 </tr>
 	 
+<tr>
+<td align=center>11.</td>
+<td>ToDoListLocalStorage</td>
+ <td>https://todo-local-storage-gamze.vercel.app/</td>
+<td>Function-if-else-querySelector-localStorage-Events</td>
+</tr>
+	 
 
 	 
 
