@@ -167,7 +167,7 @@
     <td align=center >3.</td>
     <td>Weather</td>
     <td>https://gamzeysr.github.io/WEATHER-PROJECT/</td>
-    <td>API-Try/Catch</td>
+    <td>async/await-LocalStorage</td>
  
 </tr>
 
