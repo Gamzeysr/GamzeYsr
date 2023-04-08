@@ -90,15 +90,15 @@
     <td>React-Props-React DOM-Components</td>
 </tr>
 
-<tr>
+<!-- <tr>
     <td align=center>5.</td>
     <td>React-Task-Tracker-Project</td>
     <td>https://react-tasktracker-gmz.netlify.app/</td> 
     <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
-</tr>
+</tr> -->
 
 <tr>
-    <td align=center>6.</td>
+    <td align=center>5.</td>
     <td>React-Random-User-App-Project</td>
     <td>https://user-app-gmz.netlify.app//</td> 
     <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
@@ -111,7 +111,7 @@
     <td>React-Props-useEffect-Axios-Async Await-Rest API</td>
 </tr> 
 <tr>
-<td align=center>8.</td>
+<td align=center>6.</td>
 <td>React-Clarusway-Web-Design</td>
  <td>https://react-gmz-clarusway-web-design.vercel.app/</td>
 <td>React-onClick-Nagivate-styledComponent-Routes</td>
@@ -119,21 +119,21 @@
 
 	        
 <tr>
-<td align=center>9.</td>
+<td align=center>7.</td>
 <td>React-Weather-App</td>
  <td>https://react-weather-app-starter-gamze.vercel.app/</td>
 <td>React-useEffect-useState-Props-Axios-Api-Async Await-API</td>
 </tr>
 	    
 <tr>
-<td align=center>10.</td>
+<td align=center>8.</td>
 <td>React-Recipe-App</td>
  <td>https://recipe-app-solution-gmz-react.vercel.app/</td>
 <td>React-useEffect-Props-Async Await-API-JavaScript</td>
 </tr>
 	    
 <tr>
-<td align=center>11.</td>
+<td align=center>9.</td>
 <td>React-Movie-App</td>
  <td>https://movie-app-react-gamze.vercel.app/</td>
 <td>React-Tailwind-Tostify-Firebase-Context-useEffect-Props-Async Await-API</td>
