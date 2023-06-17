@@ -66,13 +66,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHopeful&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
-<--!</div>
-<br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=GamzeYsr&theme=react-dark" />
-  </a>
-</div>-->
+
 
 
 <div align="center">
