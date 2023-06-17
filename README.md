@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Fullstack Developer! ;I used it in my projects; React | Redux ; HTML|CSS|JS| Responsive Design! &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamze-ya%C5%9Far-/) 
@@ -69,22 +66,22 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHopeful&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
-</div>
+<--!</div>
 <br>
 <div align="center">
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=GamzeYsr&theme=react-dark" />
   </a>
-</div>
+</div>-->
 
 
-<!-- <div align="center">
+<div align="center">
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
       src="https://github-profile-trophy.vercel.app/?username=GamzeYsr&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
-</div> -->
+</div> 
 
 
 
