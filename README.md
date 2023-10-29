@@ -10,6 +10,8 @@
 
 - 🌱 **Fullstack Developer**
 
+- 💬 Ask me anything about **JavaScript, TypeScript, React.js, Next.js, JQuery, Node.js, Style Component, Python, Git, Linux .**
+
 - 📫 How to reach me **gamzeyasar817@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
