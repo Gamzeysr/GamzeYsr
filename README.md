@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/gamze-ya%C5%9Far-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gmze" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/20064147](https://stackoverflow.com/users/22822274/gamze-ya%c5%9far)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20064147" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20064147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20064147" height="30" width="40" /></a>
 </p>
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
