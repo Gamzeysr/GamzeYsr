@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhopeful&label=Profile%20views&color=0e75b6&style=flat" alt="adamhopeful" /> </p>
 
-- 🌱 **Fullstack Developer**
+- 🌱 **Software Developer**
 
-- 💬 Ask me anything about **JavaScript, TypeScript, React.js, Next.js, JQuery, Style Component, Python, Node.js, Git, Linux .**
+- 💬 Ask me anything about **JavaScript, TypeScript, React.js, Next.js, JQuery, Style Component, Python, Node.js, GitHub, Linux .**
 
 - 📫 How to reach me **gamzeyasar817@gmail.com**
 
