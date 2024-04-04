@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamze-ya%C5%9Far-/) 
 
-<h3 align="center">A passionate Fullstack Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhopeful&label=Profile%20views&color=0e75b6&style=flat" alt="adamhopeful" /> </p>
 
